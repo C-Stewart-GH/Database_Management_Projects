@@ -24,11 +24,11 @@
 
 [Project Prompt:](../main/Mini_Project_1/Prompt/Mini_Proj_1_prompt.pdf)
 
-<img width="885" alt="image" src="https://user-images.githubusercontent.com/37990637/158494726-1b6b6f5d-9352-4bb1-9075-46af5a145220.png">
+<img width="700" alt="image" src="https://user-images.githubusercontent.com/37990637/158494726-1b6b6f5d-9352-4bb1-9075-46af5a145220.png">
 
 [Mini Project 1 Solution:](../main/Mini_Project_1/StewartMiniProject-1.pdf)
 
-<img width="679" alt="image" src="https://user-images.githubusercontent.com/37990637/158494965-540bbd69-45fd-4500-8468-aff97bf3fc3c.png">
+<img width="700" alt="image" src="https://user-images.githubusercontent.com/37990637/158494965-540bbd69-45fd-4500-8468-aff97bf3fc3c.png">
 
 [Back to Top](#BackToTop)
 
