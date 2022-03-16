@@ -64,7 +64,7 @@ This project uses SQL to query a MySQL Database. Project shows the request, the 
 
 [Mini Project 4](../main/Mini_Project_4/StewartMiniProject-4.pdf)
 
-Using Python's NLTK and Flair packages, I compared the accuracy of Part of Speech taggers for each tool on complex sentences. The Flair package proved to be the more accurate tagger in this project.
+This project uses MongoDB and Compass to connect to a MongoDB Document Database. Project shows the step by step of inserting, updating and querying the data. Raw data for database listed in project folder.
 
 [Back to Top](#BackToTop)
 
@@ -74,23 +74,24 @@ Using Python's NLTK and Flair packages, I compared the accuracy of Part of Speec
 
 ## References
 
-[Project 1](../main/Project%201/Project_1.ipynb)
+[Mini Project 1 Solution:](../main/Mini_Project_1/StewartMiniProject-1.pdf)
 
-[Project 2](../main/Project%202/Project_2.ipynb)
+[Mini Project 2](../main/Mini_Project_2/StewartMiniProject-2.pdf)
 
-[Project 3](../main/Project%203/Project_3.ipynb)
+[Mini Project 3](../main/Mini_Project_3/StewartMiniProject-3.pdf)
 
-[Project 4](../main/Project%204/Project_4.ipynb)
+[Mini Project 4](../main/Mini_Project_4/StewartMiniProject-4.pdf)
 
-[Project 5](../main/Project%205/Project_5.ipynb)
-
-[Project 6](../main/Project%206/Project_6.ipynb)
-
+All raw data and project prompts are in the project folders.
 
 ##### Technologies:
 
-Jupyter Notebook
+MySQL Workbench
 
-Python 3.7.7
+SQL
+
+MongoDB
+
+MongoDB Compass
 
 [Back to Top](#BackToTop)
