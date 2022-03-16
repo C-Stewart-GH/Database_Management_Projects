@@ -64,7 +64,7 @@ This project uses SQL to query a MySQL Database. Project shows the request, the 
 
 [Mini Project 4](../main/Mini_Project_4/StewartMiniProject-4.pdf)
 
-This project uses MongoDB and Compass to connect to a MongoDB Document Database. Project shows the step by step of inserting, updating and querying the data. Raw data for database listed in project folder.
+This project uses MongoDB and Compass to connect to a MongoDB Document Database. Project shows the step by step of inserting, updating, and querying the data. Raw data for database listed in project folder.
 
 [Back to Top](#BackToTop)
 
